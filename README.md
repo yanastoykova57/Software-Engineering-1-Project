@@ -4,7 +4,7 @@ In dieser LV werden all Ihre Übungsausarbeitungen über GitLab abgegeben bzw. e
 
 # Wie erhalte ich lokalen Zugriff auf dieses Repository?
 
-Um optimal mit diesem Repository zu arbeiten sollten Sie es auf Ihr lokales Arbeitsgerät spiegeln. Verwenden Sie hierzu den Befehl `git clone UrlIhresRepositories`. Die Url Ihres Repositories findet sich im Kopf dieser Webseite direkt unter dem Namen des Repositores und sollte vergleichbar sein zu `https://git01lab.cs.univie.ac.at/.....`. 
+Um optimal mit diesem Repository zu arbeiten sollten Sie es auf Ihr lokales Arbeitsgerät spiegeln. Verwenden Sie hierzu den Befehl `git clone UrlIhresRepositories`. Die Url Ihres Repositories findet sich im Kopf dieser Webseite direkt unter dem Namen des Repositories und sollte vergleichbar sein zu `https://git01lab.cs.univie.ac.at/.....`. 
 
 # Wie nütze ich dieses Repository?
 
