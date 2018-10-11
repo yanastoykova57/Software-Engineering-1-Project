@@ -1,6 +1,6 @@
 # Wofür wird GIT verwendet?
 
-In dieser LV werden all Ihre Übungsausarbeitungen über GitLab abgegeben bzw. eingereicht. Wichtig hierbei ist, dass wir Ihren Masterbranch als maßgeblich für die Bewertung, etc. ansehen. Die jeweiligen Punkte und Prüfungsergebnisse sind weiterhin in Moodle ersichtlich. Wichtig: Ändern Sie nicht den Namen des Masterbranches! Dieser muss den Namen "master" tragen. Nur Daten die während der Abgabedeadline im Masterbranch liegen werden während der Abgabegespräche gewertet.
+In dieser LV werden all Ihre Übungsausarbeitungen über GitLab abgegeben bzw. eingereicht. Wichtig hierbei ist, dass wir Ihren Masterbranch als maßgeblich für die Bewertung ansehen. Die jeweiligen Punkte und Prüfungsergebnisse sind weiterhin in Moodle ersichtlich. Wichtig: Ändern Sie nicht den Namen des Masterbranches! Dieser muss den Namen "master" tragen. Nur Daten die vor der Abgabedeadline im Masterbranch liegen werden während der Abgabegespräche gewertet.
 
 # Wie erhalte ich lokalen Zugriff auf dieses Repository?
 
