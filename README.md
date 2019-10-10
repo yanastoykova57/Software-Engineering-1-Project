@@ -6,6 +6,8 @@ In dieser LV werden all Ihre Übungsausarbeitungen über GitLab abgegeben bzw. e
 
 Um optimal mit diesem Repository zu arbeiten sollten Sie es auf Ihr lokales Arbeitsgerät spiegeln. Verwenden Sie hierzu den Befehl `git clone UrlIhresRepositories`. Die Url Ihres Repositories befindet sich im Kopf dieser Webseite direkt unter dem Namen des Repositories und sollte vergleichbar sein zu `https://git01lab.cs.univie.ac.at/.....`. 
 
+**Probleme mit den Zertifikaten**: Falls Sie beim clonen Ihres Git Repositories Probleme gemeldet bekommen welche mit der Prüfung der Zertifikate in Verbindung stehen ist es eine schnelle Lösung diese abzuschalten. Hierzu kann folgender Befehl verwendet werden:  `git config --global http.sslVerify false`
+
 # Wie nütze ich dieses Repository?
 
 Clonen Sie hierzu dieses Repository wie oben angegeben. Danach können Sie mit `git add`, `commit`, `push`, etc. damit arbeiten. Optimalerweise legen Sie hierzu nach dem initialen clone Ihren Namen und Ihre E-Mail-Adresse fest sodass alle Commits Ihnen direkt zugeordnet werden können. Verwenden Sie hierzu folgende Befehle:
@@ -13,8 +15,6 @@ Clonen Sie hierzu dieses Repository wie oben angegeben. Danach können Sie mit `
 > `git config --global user.name "Mein Name"`
 
 > `git config --global user.email a123456@univie.ac.at`
-
-**Probleme mit den Zertifikaten**: Falls Sie beim clonen Ihres Git Repositories Probleme gemeldet bekommen welche mit der Prüfung der Zertifikate in Verbindung stehen ist es eine schnelle Lösung diese abzuschalten. Hierzu kann folgender Befehl verwendet werden:  `git config --global http.sslVerify false`
 
 Weitere Informationen über dem Umgang mit GIT sind in den hierzu passenden Folien auf Moodle erhältlich bzw. wurden während dem Git Tutorials besprochen. Zusätzlich können Sie Git auch interaktiv erlernen unter: https://try.github.io
 
