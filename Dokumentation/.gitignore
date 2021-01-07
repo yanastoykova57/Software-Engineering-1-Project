@@ -1,9 +1,2 @@
 # Ignore everything
 *
-
-# But not these files...
-!.gitignore
-!*.pdf
-!*.txt
-!*.svg
-!*.png
