@@ -20,7 +20,7 @@ Clonen Sie hierzu dieses Repository wie oben angegeben. Danach können Sie mit `
 
 > `git config --global user.email a123456@univie.ac.at`
 
-Weitere Informationen über dem Umgang mit GIT sind in den hierzu passenden Folien auf Moodle erhältlich bzw. wurden während dem Git Tutorials besprochen. Zusätzlich können Sie Git auch interaktiv erlernen unter: https://try.github.io
+Weitere Informationen über dem Umgang mit GIT sind in den hierzu passenden Folien auf Moodle erhältlich bzw. wurden während dem Git Tutorials besprochen. Für weiterführende Informationen lohnt sich ein Blick in das Pro Git Handbuch: https://git-scm.com/book/de/v2 Besonders für das Thema branching empfiehlt sich außerdem: https://learngitbranching.js.org/
 
 # Welche Inhalte sind vorgegeben und wofür sind diese gedacht?
 
