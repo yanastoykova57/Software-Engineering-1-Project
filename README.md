@@ -12,8 +12,6 @@ Um optimal mit diesem Repository zu arbeiten sollten Sie es auf Ihr lokales Arbe
 
 **Probleme mit den Zertifikaten**: Falls Sie beim clonen Ihres Git Repositories Probleme gemeldet bekommen, die mit der Prüfung der Zertifikate in Verbindung stehen ist es eine schnelle Lösung diese abzuschalten. Hierzu kann folgender Befehl verwendet werden:  `git config --global http.sslVerify false`
 
-**Weitere Hilfe und Tipps zu Git/GitLab**: Siehe Screencasts auf Moodle, zusätzlich gibt es dort auch ein Skriptum für diesen Bereich. Für erfahrende Studierenden als Referenz bei den Screencasts auch ein Git Cheetsheet verlinkt. An einem der Übungstermine findet auch ein Git Tutorial statt, danach können Sie immer auch unseren Tutor mit Fragen zu Git/GitLab kontaktieren. 
-
 # Wie nütze ich dieses Repository?
 
 Clonen Sie hierzu dieses Repository wie oben angegeben. Danach können Sie mit `git add`, `commit`, `push`, etc. damit arbeiten. Optimalerweise legen Sie hierzu nach dem initialen clone Ihren Namen (echten Namen, kein Nickname) und Ihre E-Mail-Adresse (E-Mail-Adresse der Universität Wien) fest sodass alle Commits Ihnen direkt zugeordnet werden können. Verwenden Sie hierzu folgende Befehle:
@@ -22,7 +20,9 @@ Clonen Sie hierzu dieses Repository wie oben angegeben. Danach können Sie mit `
 
 > `git config --global user.email a123456@univie.ac.at`
 
-Weitere Informationen über dem Umgang mit GIT sind in den hierzu passenden Folien auf Moodle erhältlich bzw. wurden während dem Git & GitLab Screencast besprochen. Für weiterführende Informationen lohnt sich ein Blick in das Pro Git Handbuch: https://git-scm.com/book/de/v2 Besonders für das Thema branching empfiehlt sich außerdem: https://learngitbranching.js.org/
+**Hilfe und Unterstützung für Git/GitLab**: Weitere Hilfen samt einer schrittweisen Einführung in den Umgang mit Git finden sich im Git & GitLab Screencast auf Moodle. Dort ist auch direkt ein Skriptum eingebunden um Details nachzulesen. Für erfahrene Studierende, ist als Referenz, bei den Screencasts auch ein Git Cheetsheet verlinkt. An einem der Übungstermine findet auch ein Git Tutorial statt. Anschließend können Sie immer auch unseren Tutor mit Fragen zu Git/GitLab, z.B. per E-Mail, kontaktieren.
+
+Für weiterführende Informationen lohnt sich ein Blick in das Pro Git Handbuch: https://git-scm.com/book/de/v2 Besonders für das Thema branching empfiehlt sich außerdem: https://learngitbranching.js.org/ 
 
 # Welche Inhalte sind vorgegeben und wofür sind diese gedacht?
 
