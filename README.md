@@ -20,7 +20,7 @@ Clonen Sie hierzu dieses Repository wie oben angegeben. Danach können Sie mit `
 
 > `git config --global user.email a123456@univie.ac.at`
 
-**Hilfe und Unterstützung für Git/GitLab**: Weitere Hilfen samt einer schrittweisen Einführung in den Umgang mit Git finden sich im Git & GitLab Screencast auf Moodle. Dort ist auch direkt ein Skriptum eingebunden um Details nachzulesen. Für erfahrene Studierende, ist als Referenz, bei den Screencasts auch ein Git Cheat-Sheet verlinkt. An einem der Übungstermine findet auch ein Git Tutorial statt. Anschließend können Sie immer auch unseren Tutor mit Fragen zu Git/GitLab, z.B. per E-Mail, kontaktieren.
+**Hilfe und Unterstützung für Git/GitLab**: Weitere Hilfen samt einer schrittweisen Einführung in den Umgang mit Git finden sich im Git & GitLab Screencast auf Moodle. Dort ist auch direkt ein Skriptum eingebunden um Details nachzulesen. Für erfahrene Studierende, ist als Referenz, bei den Screencasts auch ein Git Cheat-Sheet verlinkt. An einem der Übungstermine findet auch ein Git Tutorial statt. Anschließend können Sie immer auch unseren Tutor mit Fragen zu Git/GitLab, z.B. [email](mailto:tutor.swe1@univie.ac.at) oder GitLab Issue kontaktieren.
 
 Für weiterführende Informationen lohnt sich ein Blick in das Pro Git Handbuch: https://git-scm.com/book/de/v2 Besonders für das Thema branching empfiehlt sich außerdem: https://learngitbranching.js.org/ 
 
@@ -39,6 +39,20 @@ Tipps dazu wie die notwendigen Jar Dateien erstellt werden können finden Sie eb
 * **Beispielprojekte**: Sehen Sie sich die auf Moodle bereitgestellten Beispielprojekte an (für Teilaufgabe 2 und 3). Sie können diese mittels Eclipse einfach in den Eclipse-Workspace als Gradle-Projekt importieren und direkt mit der Implementierung beginnen. Um die Beispielprojekte einfach in Git bzw. GitLab zu integrieren zuerst das Repository clonen und anschließend, vor dem Eclipse-Import, in den passenden Source-Unterordner kopieren.
 * **Vor einer Deadline**: Während der Abgabegespräche und den Bewertungen wird der Inhalt des Ordners Source von den LV Leitern in Eclipse importiert, gebaut, etc. und das hierbei entstehende Jar zur Bewertung herangezogen. Prüfen Sie daher sicherheitshalber ob dies fehlerfrei möglich ist indem Sie dieses Repository neu klonen, in einen neuen Eclipse Workspace importieren und anschließen Ihre Projekte bauen bzw. mittels Gradle in ein ausführbares Jar exportieren. Prüfen Sie anschließend dieses Jar mehrfach mit den bereitgestellten Lösungen zur Selbstevaluation.
 * **Während der Bearbeitung**: Erstellen Sie keine zusätzlichen Ordner im Wurzelverzeichnis dieses Repositories und verändern Sie nicht die Namen, etc. der vorgegebenen Ordner. Zusätzliche Ordner, etc. können Sie als Unterordner in den vorgegebenen Ordnern erstellen. Stellen Sie sicher, dass nicht mehrere unterschiedliche/widersprüchliche Versionen Ihrer Abgaben in diesem Repository enthalten sind. Es muss während der Bewertung schnell und einfach möglich sein zu erkennen wo sich Ihre Abgabe befindet und welche Inhalte für die jeweilige Teilaufgabe relevant sind. Andernfalls kann eine Situation entstehen, bei welcher versehentlich, beispielsweise, eine veraltete Kopie zur Bewertung herangezogen wird und Sie deshalb nicht alle Punkte erhalten. Eine spätere Korrektur und individuelle Nachfragen von unserer Seite sind Aufgrund der hohen Zahl an Studierenden organisatorisch nicht möglich.    
+
+# Wie kann ich während der Implementierung Unterstützung erhalten?
+
+Diese Lehrveranstaltung bietet auf vielen Ebenen Unterstützung an – wählen Sie nach Ihren Bedürfnissen. Beispielsweise wird für jedes für Sie neues Thema (z.B. Architektur, Netzwerk, Testing, Übungsangaben, usw.) ein Tutorial abgehalten, Beispielcode bereitgestellt und ein zugehöriges Skriptum auf Moodle hinterlegt. In den Vorbesprechungsfolien finden Sie eine Übersicht darüber, wann welches Thema behandelt wird. Gerne können Sie bei diesen Terminen auch zu themenfremden Bereichen Fragen stellen. Speziell dafür werden auch noch zusätzliche offene Fragestunden angeboten.
+
+## Auch außerhalb dieser Tutorials und Fragestunden werden Unterstützungsangebote bereitgestellt:
+
+- Für ** allgemeine Fragen **, von welchen Sie annehmen, dass diese für Sie und andere Studierende relevant sind empfehlen wir das jeweils passendste Moodle-Forum nützen. Dort können Sie auch mit anderen Studierenden diskutieren und sich gegenseitig helfen oder alte Fragen einsehen. Vielleicht findet sich genau Ihr anliegen bereits dort.
+
+- Für ** spezifische Implementierungsfragen ** empfehlen wir hier einen Git Issue zu erstellen. Beschreiben Sie darin Ihr Anliegen und - ** wichtig ** - vermerken Sie unseren Tutor. Hierzu dessen Git Handle im Issue Text, als Teil der Anfrage (inkl. @), einfügen. Inhaltlich zielt diese Unterstützungsmöglichkeit darauf ab Sie bei für Sie neue Themen in die Richtige Richtung zu lenken z.B., wenn die Netzwerkimplementierung nicht und nicht funktionieren will. Die im Folgenden angeführten Tutoren sind dieses Semester verfügbar: 
+
+   - `Simon Eckerstorfer (Git Handle @simone99)`
+
+- **Außerhalb von GitLab** können Sie uns per E-Mail erreichen. Den Tutor unter [email](mailto:tutor.swe1@univie.ac.at) sowie die LV-Leitung unter [email](mailto:swe1.wst@univie.ac.at). Für schnelle Antworten immer an diese LV-spezifischen E-Mail-Adressen schreiben und nicht an persönliche Adressen.
 
 # Welche Funktionen sollen nicht genutzt werden?
 
