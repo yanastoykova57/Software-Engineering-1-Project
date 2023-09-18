@@ -44,11 +44,11 @@ Tipps dazu wie die notwendigen Jar Dateien erstellt werden können finden Sie eb
 
 Diese Lehrveranstaltung bietet auf vielen Ebenen Unterstützung an – wählen Sie nach Ihren Bedürfnissen. Beispielsweise wird für jedes für Sie neues Thema (z.B. Architektur, Netzwerk, Testing, Übungsangaben, usw.) ein Tutorial abgehalten, Beispielcode bereitgestellt und ein zugehöriges Skriptum auf Moodle hinterlegt. In den Vorbesprechungsfolien finden Sie eine Übersicht darüber, wann welches Thema behandelt wird. Gerne können Sie bei diesen Terminen auch zu themenfremden Bereichen Fragen stellen. Speziell dafür werden auch noch zusätzliche offene Fragestunden angeboten.
 
-## Auch außerhalb dieser Tutorials und Fragestunden werden Unterstützungsangebote bereitgestellt:
+## Unterstützung außerhalb der Tutorials:
 
-- Für ** allgemeine Fragen **, von welchen Sie annehmen, dass diese für Sie und andere Studierende relevant sind empfehlen wir das jeweils passendste Moodle-Forum nützen. Dort können Sie auch mit anderen Studierenden diskutieren und sich gegenseitig helfen oder alte Fragen einsehen. Vielleicht findet sich genau Ihr anliegen bereits dort.
+- Für **allgemeine Fragen**, von welchen Sie annehmen, dass diese für Sie und andere Studierende relevant sind empfehlen wir das jeweils passendste Moodle-Forum nützen. Dort können Sie auch mit anderen Studierenden diskutieren und sich gegenseitig helfen oder alte Fragen einsehen. Vielleicht findet sich genau Ihr anliegen bereits dort.
 
-- Für ** spezifische Implementierungsfragen ** empfehlen wir hier einen Git Issue zu erstellen. Beschreiben Sie darin Ihr Anliegen und - ** wichtig ** - vermerken Sie unseren Tutor. Hierzu dessen Git Handle im Issue Text, als Teil der Anfrage (inkl. @), einfügen. Inhaltlich zielt diese Unterstützungsmöglichkeit darauf ab Sie bei für Sie neue Themen in die Richtige Richtung zu lenken z.B., wenn die Netzwerkimplementierung nicht und nicht funktionieren will. Die im Folgenden angeführten Tutoren sind dieses Semester verfügbar: 
+- Für **spezifische Implementierungsfragen** empfehlen wir hier einen Git Issue zu erstellen. Beschreiben Sie darin Ihr Anliegen und - ** wichtig ** - vermerken Sie unseren Tutor. Hierzu dessen Git Handle im Issue Text, als Teil der Anfrage (inkl. @), einfügen. Inhaltlich zielt diese Unterstützungsmöglichkeit darauf ab Sie bei für Sie neue Themen in die Richtige Richtung zu lenken z.B., wenn die Netzwerkimplementierung nicht und nicht funktionieren will. Die im Folgenden angeführten Tutoren sind dieses Semester verfügbar: 
 
    - `Simon Eckerstorfer (Git Handle @simone99)`
 
