@@ -48,7 +48,7 @@ Diese Lehrveranstaltung bietet auf vielen Ebenen Unterstützung an – wählen S
 
 - Für **allgemeine Fragen**, von welchen Sie annehmen, dass diese für Sie und andere Studierende relevant sind empfehlen wir das jeweils passendste Moodle-Forum nützen. Dort können Sie auch mit anderen Studierenden diskutieren und sich gegenseitig helfen oder alte Fragen einsehen. Vielleicht findet sich genau Ihr Anliegen bereits dort.
 
-- Für **spezifische Implementierungsfragen** empfehlen wir hier einen Git Issue zu erstellen. Beschreiben Sie darin Ihr Anliegen und - ** wichtig ** - vermerken Sie unseren Tutor. Hierzu dessen Git Handle im Issue Text, als Teil der Anfrage (inkl. @), einfügen. Inhaltlich zielt diese Unterstützungsmöglichkeit darauf ab Sie bei für Sie neue Themen in die Richtige Richtung zu lenken z.B., wenn die Netzwerkimplementierung nicht und nicht funktionieren will. Die im Folgenden angeführten Tutoren sind dieses Semester verfügbar: 
+- Für **spezifische Implementierungsfragen** empfehlen wir hier einen Git Issue zu erstellen. Beschreiben Sie darin Ihr Anliegen und - **wichtig** - vermerken Sie unseren Tutor. Hierzu dessen Git Handle im Issue Text, als Teil der Anfrage (inkl. @), einfügen. Inhaltlich zielt diese Unterstützungsmöglichkeit darauf ab Sie bei für Sie neue Themen in die Richtige Richtung zu lenken z.B., wenn die Netzwerkimplementierung nicht und nicht funktionieren will. Die im Folgenden angeführten Tutoren sind dieses Semester verfügbar: 
 
    - `Simon Eckerstorfer (Git Handle @simone99)`
 
