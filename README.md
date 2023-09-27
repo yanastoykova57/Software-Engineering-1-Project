@@ -48,11 +48,15 @@ Diese Lehrveranstaltung bietet auf vielen Ebenen Unterstützung an – wählen S
 
 - Für **allgemeine Fragen**, von welchen Sie annehmen, dass diese für Sie und andere Studierende relevant sind empfehlen wir das jeweils passendste Moodle-Forum nützen. Dort können Sie auch mit anderen Studierenden diskutieren und sich gegenseitig helfen oder alte Fragen einsehen. Vielleicht findet sich genau Ihr Anliegen bereits dort.
 
-- Für **spezifische Implementierungsfragen** empfehlen wir hier einen Git Issue zu erstellen. Beschreiben Sie darin Ihr Anliegen und - **wichtig** - vermerken Sie unseren Tutor. Hierzu dessen Git Handle im Issue Text, als Teil der Anfrage (inkl. @), einfügen. Inhaltlich zielt diese Unterstützungsmöglichkeit darauf ab Sie bei für Sie neue Themen in die Richtige Richtung zu lenken z.B., wenn die Netzwerkimplementierung nicht und nicht funktionieren will. Die im Folgenden angeführten Tutoren sind dieses Semester verfügbar: 
+- Für **spezifische Implementierungsfragen** empfehlen wir hier einen Git Issue zu erstellen. Beschreiben Sie darin Ihr Anliegen und - **wichtig** - vermerken Sie unseren Tutor. Hierzu dessen Git Handle im Issue Text, als Teil der Anfrage (inkl. @), einfügen. 
+
+   Inhaltlich zielt diese Unterstützungsmöglichkeit darauf ab Sie bei für Sie **neuen** Themen in die Richtige Richtung zu lenken. Beispielsweise wenn die Netzwerkimplementierung nicht und nicht funktionieren will oder Sie trotz eigener Analysen nicht nachvollziehen können warum einer der Integrationstests nun genau einen Fehler in Ihrer Implementierung meldet. 
+
+   Folgenden angeführten Tutoren sind dieses Semester verfügbar: 
 
    - `Simon Eckerstorfer (Git Handle @simone99)`
 
-- **Außerhalb von GitLab** können Sie uns per E-Mail erreichen. Den Tutor unter [email](mailto:tutor.swe1@univie.ac.at) sowie die LV-Leitung unter [email](mailto:swe1.wst@univie.ac.at). Für schnelle Antworten immer an diese LV-spezifischen E-Mail-Adressen schreiben und nicht an persönliche Adressen.
+- **Außerhalb von GitLab/Forum** können Sie uns per E-Mail erreichen. Den Tutor unter [email](mailto:tutor.swe1@univie.ac.at) sowie die LV-Leitung unter [email](mailto:swe1.wst@univie.ac.at). Für schnelle Antworten immer an diese LV-spezifischen E-Mail-Adressen schreiben und nicht an persönliche Adressen.
 
 # Welche Funktionen sollen nicht genutzt werden?
 
