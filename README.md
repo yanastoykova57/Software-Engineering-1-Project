@@ -52,7 +52,7 @@ Diese Lehrveranstaltung bietet auf vielen Ebenen Unterstützung an – wählen S
 
    Inhaltlich zielt diese Unterstützungsmöglichkeit darauf ab Sie bei für Sie **neuen** Themen in die Richtige Richtung zu lenken. Beispielsweise wenn die Netzwerkimplementierung nicht und nicht funktionieren will oder Sie trotz eigener Analysen nicht nachvollziehen können warum einer der Integrationstests nun genau einen Fehler in Ihrer Implementierung meldet. 
 
-   Folgenden angeführten Tutoren sind dieses Semester verfügbar: 
+   Folgende Tutoren sind dieses Semester verfügbar: 
 
    - `Simon Eckerstorfer (Git Handle @simone99)`
 
