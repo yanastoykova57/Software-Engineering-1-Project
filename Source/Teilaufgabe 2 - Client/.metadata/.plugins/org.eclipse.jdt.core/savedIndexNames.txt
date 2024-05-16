@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/yanastoykova/Downloads/SE1_11916925/Source/Teilaufgabe 2 - Client/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3939774360.index
+2729382848.index
