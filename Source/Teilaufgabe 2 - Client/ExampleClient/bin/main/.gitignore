@@ -1,0 +1,10 @@
+/.DS_Store
+/client/
+/exceptions/
+/execute/
+/game/
+/logback.xml
+/map/
+/move/
+/network/
+/ui/
