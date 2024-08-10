@@ -12,8 +12,6 @@ import ui.CLI;
 
 public class MainClient {
 	
-///PASS: EbjE3AMPNYb
-	
 	private static final Logger logger = LoggerFactory.getLogger(MainClient.class);
 	
 	public static void main(String[] args) {
